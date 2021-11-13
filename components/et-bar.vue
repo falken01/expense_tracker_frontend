@@ -1,10 +1,12 @@
 <template>
-
+  <v-app-bar app clipped-left >
+    <h3>Expense tracker</h3>
+  </v-app-bar>
 </template>
 
 <script>
 export default {
-  name: "et-bar"
+  name: "EtBar"
 }
 </script>
 
